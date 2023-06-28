@@ -1,0 +1,35 @@
+body{
+    background-color: #ff9fb8;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: #1a1f38;
+    font-size: 23px;
+}
+
+h1, p{
+    color: #4c151e;
+}
+
+img{
+    border-style:solid;
+    margin-left: 20px; 
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.img1 {
+    width: 500px; /*ancho*/
+    height: 300px; /*altura*/
+}
+
+.img2 {
+    width: 400px; /*ancho*/
+    height: 200px; /*altura*/
+}
+
+a{
+    color: #4c588d;
+}
